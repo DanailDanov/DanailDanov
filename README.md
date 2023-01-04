@@ -1,5 +1,5 @@
 Hi, I am Danail Danov! 👋
-A future frontend developer from Sofia, Bulgaria
+
 
 - 🌱 I’m currently learning HTML5, CSS3 and JavaScript 
 - 📫 How to reach me: danail.pl.danov@gmail.com
